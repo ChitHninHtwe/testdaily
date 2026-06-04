@@ -23,4 +23,3 @@ if ($conn->query($query) === TRUE) {
 }
 
 $conn->close();
-?>

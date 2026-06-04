@@ -6,7 +6,7 @@ require_once 'config.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vlog Planning Guide</title>
+    <title>Vlog Planning Guide v2</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
